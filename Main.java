@@ -5,5 +5,6 @@ public class Main {
         Calculator calculator = new Calculator();
         //Add two numbers
         System.out.println(calculator.add(10, 20));
+        System.out.println(calculator.sub(10, 20));
     }
 }
